@@ -13,7 +13,6 @@
 <strong>
 Raid bot by nf5
 </strong>
-<img src="https://cdn.discordapp.com/attachments/947619028715847700/948596915002556476/unknown.png" width="750", height="50">
 </p>
 <br>
 
