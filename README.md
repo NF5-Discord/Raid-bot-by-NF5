@@ -11,12 +11,9 @@
 ### <p align="center">🦎 Niuk BY NF5 🦎</p>
 
 <br><br>
-<p align="center">
-<strong>
 * ***Niuk est un raid bot développé en JavaScript***
 * ***Il a été développé par NF5.***
 * ***Voici mon discord ! NF5#0001***
-</strong>
 </p>
 <br>
 
