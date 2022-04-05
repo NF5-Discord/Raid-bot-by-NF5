@@ -26,10 +26,10 @@ Raid bot by nf5
 ### <p align="center">📌 Disclaimer 📌</p>
 
 <br><br>
-* ***Please use this program only for educational purposes.***
-* ***It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.***
+* ***Veuillez utiliser ce programme uniquement à des fins éducatives.***
+* ***Il n'est pas destiné à être utilisé de manière malveillante et je décline toute responsabilité pour ce que vous en faites.***
 <br><br>
 
 -----
 
-### <p align="center">NF5</p>
+### <p align="center">🧨 BY NF5 🧨</p>
