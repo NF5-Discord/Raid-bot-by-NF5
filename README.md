@@ -8,12 +8,14 @@
 
 -----
 
-### <p align="center">🦎 RAID BOT BY NF5 🦎</p>
+### <p align="center">🦎 Niuk BY NF5 🦎</p>
 
 <br><br>
 <p align="center">
 <strong>
-Raid bot by nf5
+* ***Niuk est un raid bot développé en JavaScript***
+* ***Il a été développé par NF5.***
+* ***Voici mon discord ! NF5#0001***
 </strong>
 </p>
 <br>
