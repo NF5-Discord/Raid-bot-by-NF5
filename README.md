@@ -12,8 +12,8 @@
 
 <br><br>
 * ***Niuk est un raid bot développé en JavaScript***
-* ***Il a été développé par NF5.***
-* ***Voici mon discord ! NF5#0001***
+* ***Développé par NF5.***
+* ***Voici mon discord ! Auko#9999.***
 </p>
 <br>
 
@@ -29,7 +29,7 @@
 <br><br>
 * ***Veuillez utiliser ce programme uniquement à des fins éducatives.***
 * ***Il n'est pas destiné à être utilisé de manière malveillante et je décline toute responsabilité pour ce que vous en faites.***
-* ***Si vous rencontrez un problème veuillez me contacter***
+* ***Si vous rencontrez un problème veuillez me contacter.***
 <br><br>
 
 -----
