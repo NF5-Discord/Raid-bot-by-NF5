@@ -29,6 +29,7 @@
 <br><br>
 * ***Veuillez utiliser ce programme uniquement à des fins éducatives.***
 * ***Il n'est pas destiné à être utilisé de manière malveillante et je décline toute responsabilité pour ce que vous en faites.***
+* ***Si vous rencontrez un problème veuillez me contacter***
 <br><br>
 
 -----
