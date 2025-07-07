@@ -1,9 +1,7 @@
 
 
 -----
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1227738671009107969/1391761805986103360/telecharge_1.jpg?ex=686d12b0&is=686bc130&hm=be478109aed2f98fd7195a94d2fda25cfd4cef1679db4a6725a53dc652e7cd84", width="500", height="500">
-</p>
+
 
 
 -----
@@ -35,3 +33,9 @@
 -----
 
 ### <p align="center">🧨 BY NF5 🧨</p>
+
+-----
+
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1227738671009107969/1391761805986103360/telecharge_1.jpg?ex=686d12b0&is=686bc130&hm=be478109aed2f98fd7195a94d2fda25cfd4cef1679db4a6725a53dc652e7cd84", width="500", height="500">
+</p>
